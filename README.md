@@ -1,2 +1,2 @@
 # Ridge
-Ridge from scratvh
+Ridge from scratch
